@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ネバギバ☆",
+  "base_artist": "かな from AIKATSU☆STARS!",
+  "createdAt": "2025-12-24T08:54:31.334366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネバギバ!",
+      "artist": "Sonar Pocket",
+      "has_synced": false,
+      "path": "select/01_ネバギバ!_Sonar_Pocket.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "俺達だけのファイティングソング (通称: ネバギバ)",
+      "artist": "雅-miyavi-",
+      "has_synced": true,
+      "path": "select/02_俺達だけのファイティングソング_(通称__ネバギバ)_雅-miyavi-.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "俺達だけのファイティングソング(通称:ネバギバ)",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/03_俺達だけのファイティングソング(通称_ネバギバ)_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ネバギバ",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/04_ネバギバ_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10. ネバギバ！",
+      "artist": "Sonar Pocket",
+      "has_synced": false,
+      "path": "select/05_10._ネバギバ!_Sonar_Pocket.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oretachi Dake no Fighting Song (Tsusho: Never Give Up) (俺達だけのファイティングソング (通称:ネバギバ))",
+      "artist": "Miyavi",
+      "has_synced": true,
+      "path": "select/06_Oretachi_Dake_no_Fighting_Song_(Tsusho__Never_Give_Up)_(俺達だけのファイティングソング_(通称_ネバギバ_Miyavi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ネバギバ ~Never Give Up!~",
+      "artist": "20th Century",
+      "has_synced": true,
+      "path": "select/07_ネバギバ_~Never_Give_Up!~_20th_Century.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "俺達だけのファイティングソング (通称: ネバギバ)",
+      "artist": "Miyavi",
+      "has_synced": true,
+      "path": "select/08_俺達だけのファイティングソング_(通称__ネバギバ)_Miyavi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネバギバ☆",
+      "artist": "かな from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_ネバギバ☆_かな_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
